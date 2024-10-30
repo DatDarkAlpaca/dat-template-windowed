@@ -1,6 +1,6 @@
-# Dat Template
+# Dat Template Windowed
 
-> This respository is just a simple Premake5 C++ template.
+> This respository is just a simple Premake5 C++ template with GLFW/Glad and Vulkan.
 
 # Getting Started
 
@@ -18,7 +18,7 @@ You may also need to add an environment variable to use `premake5`.
 ## Installation
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/DatDarkAlpaca/premake-conan-template
+    git clone --recurse-submodules https://github.com/DatDarkAlpaca/dat-template-windowed
     ```
 
 2. **Generate the project**
